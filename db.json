@@ -1,0 +1,58 @@
+{
+  "clientes": [
+    {
+      "nome": "amem",
+      "email": "fgfd",
+      "fone": "44",
+      "id": 1
+    },
+    {
+      "nome": "felipe",
+      "email": "feliep@",
+      "fone": "6556.56.",
+      "id": 2
+    },
+    {
+      "nome": "okoçkl",
+      "email": "klçkl",
+      "fone": "k53645",
+      "id": 3
+    },
+    {
+      "nome": "maria",
+      "email": "maria@",
+      "fone": "k53645",
+      "id": 4
+    },
+    {
+      "nome": "maria",
+      "email": "maria@",
+      "fone": "k53645",
+      "id": 5
+    },
+    {
+      "nome": "fer",
+      "email": "fer@",
+      "fone": "k53645",
+      "id": 6
+    },
+    {
+      "nome": "MARIA",
+      "email": "MARIA@",
+      "fone": "44",
+      "id": 7
+    },
+    {
+      "nome": "maria",
+      "email": "maria@",
+      "fone": "44",
+      "id": 8
+    },
+    {
+      "nome": "lç",
+      "email": "~~ç",
+      "fone": "44",
+      "id": 9
+    }
+  ]
+}
